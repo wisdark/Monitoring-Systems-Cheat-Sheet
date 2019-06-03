@@ -63,6 +63,8 @@ You are successfully logged in and don't know what to do then? This topic is for
 
 [XSS -> RCE vector. Spawning shell via JS execution (worked on NagiosXI <= 5.4.12)](https://github.com/HD421/Monitoring-Systems-Cheat-Sheet/blob/master/xss_or_js_shell_uploading_NagiosXI.md)
 
+[XSS -> RCE by polict (NagiosXI 5.5.10)](https://www.shielder.it/blog/nagios-xi-5-5-10-xss-to-root-rce/)
+
 [RCE on Monitored Hosts through the NRPE(<= 2.14) plugin](https://vulners.com/metasploit/MSF:EXPLOIT/LINUX/MISC/NAGIOS_NRPE_ARGUMENTS)
 
 [NagiosXI Vulnerability Chaining. Death By a Thousand Cuts (<= 5.4.12)](https://blog.redactedsec.net/exploits/2018/04/26/nagios.html)
@@ -71,3 +73,7 @@ You are successfully logged in and don't know what to do then? This topic is for
 [Stealing administrator's session and creating our own privileged account (ARP-spoofing)](https://github.com/HD421/Monitoring-Systems-Cheat-Sheet/blob/master/Zabbix_session_hijacking.md)
 
 [Spawn shell on monitored agents (Unix/Windows)](https://github.com/HD421/Monitoring-Systems-Cheat-Sheet/blob/master/Zabbix_spawn_shell_on_agents.md)
+
+### PRTG ###
+
+[PRTG NETWORK MONITOR PRIVILEGE ESCALATION (version 18.2.41.1652)](https://www.criticalstart.com/2018/10/prtg-network-monitor-privilege-escalation/) || [Exploit](https://github.com/Critical-Start/Section-8/blob/master/Paessler%20-%20PRTG/prtg_privesc.ps1)
